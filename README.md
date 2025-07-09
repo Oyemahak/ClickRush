@@ -1,34 +1,49 @@
 # 🖱️ Click Rush: How Fast Are You?
 
-**Click Rush** is a fast-paced, reflex-based emoji-clicking game built with HTML, CSS, and JavaScript — designed as a fun, interactive project for my portfolio.
-
-🎯 **Goal:**  
-Click as many emojis as you can in 10 seconds!  
-At the end, earn a rank: 🥉 Bronze · 🥈 Silver · 🥇 Gold
+**Click Rush** is a 2D mini-game I created during a vibe coding session in Week 1.  
+It’s a fast-paced, emoji-clicking reflex challenge — fun, light, and portfolio-ready.
 
 ---
 
-## 🚀 Play Live  
-🔗 [Click Here to Play](https://oyemahak.github.io/ClickRush/)
+## 🎯 Game Objective
+Click as many random emojis as you can in **10 seconds**.  
+Earn a fun rank at the end based on your score:
 
-📁 [View on GitHub](https://github.com/Oyemahak/ClickRush)  
-🌐 [Visit My Portfolio](https://oyemahak.github.io/mahak/)
+- 🥉 Bronze – Beginner clicker  
+- 🥈 Silver – Getting speedy  
+- 🥇 Gold – Lightning fingers!
+
+---
+
+## 🚀 Live Demo  
+🌐 [Click to Play](https://oyemahak.github.io/ClickRush/)  
+📁 [GitHub Repository](https://github.com/Oyemahak/ClickRush)  
+🎒 [My Portfolio](https://oyemahak.github.io/mahak/)
 
 ---
 
 ## 💡 Features
-- Fast 10-second gameplay
-- Real-time score tracking
-- Responsive for all devices
-- Fun rank & confetti celebration
+- 10-second timed challenge
+- Live score + countdown
+- Rolling rainbow border animation
+- Confetti celebration on win
+- Responsive and mobile-ready UI
+- Glassy, gamified design
 
 ---
 
 ## 🛠️ Tech Stack
-- HTML
-- CSS (with animated rainbow border)
-- JavaScript
+- HTML5
+- CSS3 (Custom animation effects)
+- JavaScript (Game logic, timer, emoji generator)
 
 ---
 
-👋 Made with love by [Mahak Patel](https://oyemahak.github.io/mahak/)
+## ✅ Submission
+🗓️ Submitted for **Week 1 – Micro-Solution Game Project**  
+🎓 Humber College – *Special Topics: Web Dev 2 – HTTP-5213-0NA*
+
+---
+
+## 👨‍💻 Author
+Coded with joy by [Mahak Patel](https://oyemahak.github.io/mahak/)
